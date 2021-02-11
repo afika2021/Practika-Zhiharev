@@ -1,0 +1,2 @@
+D:\практ\проект-v-1\Project1\Project1\obj\Debug\Project1.csprojAssemblyReference.cache
+D:\практ\проект-v-1\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
